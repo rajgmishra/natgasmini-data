@@ -1,0 +1,1 @@
+# NATGAS Mini OHLC Data
